@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    border: 0px;
+}
+body{
+    height: 100%;
+    line-height: 1;
+    font-size: 18px;
+}
+._container{
+    width: 480px;
+    height: 670px;
+    padding-top: 100px;
+    margin: 0px auto;
+}
+input{
+    width: 480px;
+    height: 60px;
+    border: 2px solid gray;
+    margin-bottom: 30px;
+}
+table{
+    border-spacing: 0px;
+}
+td{
+    border: 1px solid black;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    font-size: 36px;
+}
